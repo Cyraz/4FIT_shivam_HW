@@ -45,7 +45,7 @@ https://www.getpostman.com/collections/1bc3be0b9cf4f0208194
 
 ## Running the tests
 
-Not finished yet
+Run class ShivamrajputHwApplicationTests for integration tests
 
 
 ## Deployment
